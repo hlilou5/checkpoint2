@@ -1,0 +1,16 @@
+.p1{
+color: red;
+}
+.p2{
+  color: blue;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
